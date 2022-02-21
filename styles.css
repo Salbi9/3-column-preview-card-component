@@ -4,7 +4,6 @@
 *{
     box-sizing: border-box;
 }
-@media screen and (max-width: 1440px){
 
     body{
         padding: 250px;
@@ -91,7 +90,7 @@
         background-color: hsl(179, 100%, 13%);
     }
 
-}
+
 
 @media screen and (max-width: 376px) {
     
